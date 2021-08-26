@@ -1,7 +1,7 @@
 # aTunes
 aTunes is a powerful, full-featured, cross-platform player and manager, with support for online radios, podcasts and CD ripping. 
 
-![](images/aTunes-dark-skin.png)
+![](aTunes-dark-skin.png)
 
 ## Features
 - Support for huge music collections with thousands of files
