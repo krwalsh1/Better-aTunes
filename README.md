@@ -1,5 +1,5 @@
 ![](Our-Process.png)
-![](Where-we-Started)
+![](Where-we-Started.png)
 ![](Where-we-Ended.png)
 
 
