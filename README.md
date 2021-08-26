@@ -1,3 +1,8 @@
+![](Our-Process.png)
+![](Where-we-Started)
+![](Where-we-Ended.png)
+
+
 # aTunes
 aTunes is a powerful, full-featured, cross-platform player and manager, with support for online radios, podcasts and CD ripping. 
 
